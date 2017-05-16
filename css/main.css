@@ -22,3 +22,11 @@ header{
     text-align: justify;
     padding: 5%;
 }
+
+.panel-footer{
+color:#661141;
+ padding: 2%;
+ border: none;
+ text-align: center; 
+ background-color:#AA5585;
+}
