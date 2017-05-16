@@ -17,3 +17,8 @@ header{
 .espacio{
     padding: 5%;
 }
+
+.texto{
+    text-align: justify;
+    padding: 5%;
+}
